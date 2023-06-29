@@ -1,0 +1,13 @@
+[INIT]
+PICFIX=1
+VARCount=64
+Version=-1
+SCREENDSIZE=800X480
+SPADDRESS=5000
+[IMG]
+00=00-splash.png
+43=43-Keyboard2-blue.png
+02=02-TextBox-splash.png
+03=03-TextBox-splash.png
+04=04-TextBox-splash.png
+05=05-TextBox-splash.png
