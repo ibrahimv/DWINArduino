@@ -1,1 +1,1 @@
-# DWINArduino DWIN Display test project.
+# DWIN Arduino DWIN Display test project.
